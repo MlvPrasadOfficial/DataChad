@@ -2,7 +2,7 @@ from pathlib import Path
 
 PAGE_ICON = "❣️"
 APP_NAME = "MLV - GPt"
-PROJECT_URL = "https://github.com/gustavz/DataChad"
+PROJECT_URL = "https://github.com/MlvPrasadOfficial/DataChad"
 
 K = 6
 FETCH_K = 30
@@ -21,7 +21,7 @@ MODEL_PATH = Path.cwd() / "models"
 GPT4ALL_BINARY = "ggml-gpt4all-j-v1.3-groovy.bin"
 
 DATA_PATH = Path.cwd() / "data"
-DEFAULT_DATA_SOURCE = "https://github.com/gustavz/DataChad.git"
+DEFAULT_DATA_SOURCE = "https://github.com/MlvPrasadOfficial/DataChad.git"
 
 MODE_HELP = """
 Choose between `OpenAI` which uses the openai library to make API calls, or `Local` which runs all operations (Embedding, Vector Stor and LLM) locally.\n
