@@ -1,7 +1,7 @@
 from pathlib import Path
 
 PAGE_ICON = "🤖"
-APP_NAME = "DataChad"
+APP_NAME = "MLV - GPt"
 PROJECT_URL = "https://github.com/gustavz/DataChad"
 
 K = 6
